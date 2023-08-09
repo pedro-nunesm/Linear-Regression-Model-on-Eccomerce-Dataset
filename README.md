@@ -73,9 +73,25 @@ I calculated some error metrics:
 
 
 **Finally, by creating a graph using only the error value (Real Values - Predictions), it is possible to visualize a normal distribution, which reiterates that the Linear Regression model worked very well for this dataset.**
+
+### **3.4 - Checking the Coefficients**
+#### Coeffeciet:
+
+**Avg. Session Length	25.981550**
+
+**Time on App	38.590159**
+
+**Time on Website	0.190405**
+
+**Length of Membership	61.279097**
+
 ## 4- Conclusion
+After all the analysis and verification of the model, it is possible to conclude that, for Eccomerce, comparing only the variables Time on Web and Time on App, it is more beneficial to invest in measures to increase Time on App.
 
+However, analyzing everything that was observed, the most appropriate measure for Eccomerce, aiming at an increase in the Yearly Amount Spent for each customer, is to invest in measures to build customer loyalty, since it is the Length of Membership that, in fact, has a positive linear relationship with an increase in sales.
 
+Looking at the coefficients, the Length of Membership variable has a much greater weight. A one-unit increase in this variable averages growth of $61.27, while a one-unit increase in Time on App averages only $38.59 growth.
 
 ## 5- Next-Steps
+
 
