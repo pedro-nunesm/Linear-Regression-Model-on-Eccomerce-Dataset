@@ -68,6 +68,11 @@ I calculated some error metrics:
   - Root Mean Squared Error: **8.93**
 
  **The error is extremely low, considering that a divergence of less than $10 for a Yearly Amount Spent prediction.**
+
+ ![](img/Normal%20Distribution.png)
+
+
+**Finally, by creating a graph using only the error value (Real Values - Predictions), it is possible to visualize a normal distribution, which reiterates that the Linear Regression model worked very well for this dataset.**
 ## 4- Conclusion
 
 
