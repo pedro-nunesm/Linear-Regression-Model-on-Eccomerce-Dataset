@@ -86,12 +86,19 @@ I calculated some error metrics:
 **Length of Membership	61.279097**
 
 ## 4- Conclusion
-After all the analysis and verification of the model, it is possible to conclude that, for Eccomerce, comparing only the variables Time on Web and Time on App, it is more beneficial to invest in measures to increase Time on App.
+**After all the analysis and verification of the model, it is possible to conclude that, for Eccomerce, comparing only the variables Time on Web and Time on App, it is more beneficial to invest in measures to increase Time on App.**
 
-However, analyzing everything that was observed, the most appropriate measure for Eccomerce, aiming at an increase in the Yearly Amount Spent for each customer, is to invest in measures to build customer loyalty, since it is the Length of Membership that, in fact, has a positive linear relationship with an increase in sales.
+**However, analyzing everything that was observed, the most appropriate measure for Eccomerce, aiming at an increase in the Yearly Amount Spent for each customer, is to invest in measures to build customer loyalty, since it is the Length of Membership that, in fact, has a positive linear relationship with an increase in sales.**
 
-Looking at the coefficients, the Length of Membership variable has a much greater weight. A one-unit increase in this variable averages growth of $61.27, while a one-unit increase in Time on App averages only $38.59 growth.
+**Looking at the coefficients, the Length of Membership variable has a much greater weight. A one-unit increase in this variable averages growth of $61.27, while a one-unit increase in Time on App averages only $38.59 growth.**
 
 ## 5- Next-Steps
+
+**Despite knowing that the project can still be improved a lot, I consider it finished.**
+
+It was my first Machine Learning project, but I believe that some improvements could be made:
+- Use a larger dataset with more variables.
+- Analyze which variables could be linearly correlated with the Length of Membership.
+- Measure the consequences on billing if an investment were made.
 
 
