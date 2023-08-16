@@ -54,7 +54,7 @@ The dataset has information about:
 ### **3.2 - Linear Regression Model**
  - To begin, i separate dataset between X (Numeric Variables) and Y(Year Amount Spent)
  - So i used Sklearn to create X_train, X_test, Y_train, Y_test
- - The objective was to use the Trainning Dataset to train the Linear Regression Model, and, after this, use the Test Dataset to measure the performance.
+ - The objective was to use the Trainning Dataset to train the Linear Regression Model, then, use the Test Dataset to measure the performance.
    
   ![](img/Comparing%20Prediction%201.png)
   ![](img/Comparing%20Prediction%202.png)
