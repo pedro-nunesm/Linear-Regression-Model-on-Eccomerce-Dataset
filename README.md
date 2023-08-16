@@ -2,7 +2,7 @@
 
 ![](img/Eccomerce%20image.jpg)
 
-### The goal of this project is help an Eccomerce to make a better investment decision, seeking a greater amount spent annually per customer.
+### The goal of this project is to help an Eccomerce to make a better investment decision, seeking a greater amount spent annually per customer.
 ### For this, I will use the Linear Regression Machine Learning model.
 
 
