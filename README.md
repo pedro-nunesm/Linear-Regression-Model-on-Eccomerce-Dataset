@@ -62,7 +62,7 @@ The dataset has information about:
  - **Using the graphs, it is possible to see that the model behaved extremely satisfactorily, and made very accurate predictions based on data that it had not yet seen.**
 
 ### **3.3 - Measure Model Errors**
-I calculated some error metrics:
+To measure performance more quantitatively, I calculated the statistical errors of the model:
   - Mean Absolute Error: **7.23**
   - Mean Squared Error: **79.81**
   - Root Mean Squared Error: **8.93**
